@@ -1,0 +1,10 @@
+h1, h3, h4{color: red;}
+h1, h3, h4{background-color: yellow;
+ padding: 002%;}
+ body{ max-width: 800px;
+margin: auto;
+color:#ffffff;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h1{margin:0%} 
+body {background: fixed black;}
+body{text-align: center;}
